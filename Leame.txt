@@ -1,0 +1,4 @@
+Para poder ejecutar el código únicamente se debe de asegurar de tener el programa y video en la misma carpeta o direccion, en este caso el video ya esta elegido desde las líneas de código, asi que si requiere cambiar el nombre de dicho video deberá hacerlo en la línea 67 que se vera asi: video_path = 'lineas.mp4' 
+y solo para ejecutarlo deberá hacerlo desde la terminal escribiendo 
+python main.py
+Y listo
